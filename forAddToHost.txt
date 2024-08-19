@@ -1,0 +1,2 @@
+add this script to package.json
+"start": "json-server --watch db.json -d 2000 -p 9000"
